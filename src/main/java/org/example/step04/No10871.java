@@ -1,6 +1,5 @@
-package org.example.step03;
+package org.example.step04;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class No10871 {

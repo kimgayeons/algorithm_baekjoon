@@ -1,4 +1,4 @@
-package org.example.step03;
+package org.example.step04;
 
 import java.util.Scanner;
 
